@@ -1,0 +1,42 @@
+# Yellow Magic Orchestra – SOLID STATE SURVIVOR
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Minds blind
+Empty eyes
+Cracked smiles
+Black tongues ablaze
+No names
+Breathe in dreams
+Stand in line
+Cracked smiles
+
+The strangeness of the strangers
+Second hand teenagers
+Face to face they face
+A chemical race
+
+Minds blind
+Empty eyes
+Cracked smiles
+Black tongues ablaze
+No names
+Breathe in dreams
+Stand in line
+Cracked smiles
+
+And Marilyn Monroe's not home
+So I sit alone with the video
+And Tokyo Rose is on the phone
+Dressed to kill
+
+Minds blind
+Empty eyes
+Cracked smiles
+Black tongues ablaze
+No names
+Breathe in dreams
+Stand in line
+Cracked smiles
+```
