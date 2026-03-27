@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "SOLID STATE SURVIVOR",
+  "base_artist": "Yellow Magic Orchestra",
+  "createdAt": "2026-03-27T12:32:06.435556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SOLID STATE SURVIVOR",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/01_SOLID_STATE_SURVIVOR_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/02_Solid_State_Survivor_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Solid State Survivor (1979/10/24, The Venue In London)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/03_Solid_State_Survivor_(1979_10_24,_The_Venue_In_London)_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/04_Solid_State_Survivor_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Solid State Survivor - 2018 Bob Ludwig Remastering",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/05_Solid_State_Survivor_-_2018_Bob_Ludwig_Remastering_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Solid State Survivor (2018 Bob Ludwig Remastering)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/06_Solid_State_Survivor_(2018_Bob_Ludwig_Remastering)_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/07_Solid_State_Survivor_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SOLID STATE SURVIVOR",
+      "artist": "YMO",
+      "has_synced": true,
+      "path": "select/08_SOLID_STATE_SURVIVOR_YMO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "The Mad Capsule Markets",
+      "has_synced": false,
+      "path": "select/09_Solid_State_Survivor_The_Mad_Capsule_Markets.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SOLID STATE SURVIVOR",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/10_SOLID_STATE_SURVIVOR_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SOLID STATE SURVIVOR（2018 Bob Ludwig Remastering）",
+      "artist": "YELLOW MAGIC ORCHESTRA",
+      "has_synced": true,
+      "path": "select/11_SOLID_STATE_SURVIVOR(2018_Bob_Ludwig_Remastering)_YELLOW_MAGIC_ORCHESTRA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/12_Solid_State_Survivor_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": true,
+      "path": "select/13_Solid_State_Survivor_Yellow_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "YMO",
+      "has_synced": true,
+      "path": "select/14_Solid_State_Survivor_YMO.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SOLID STATE SURVIVOR",
+      "artist": "Yello Magic Orchestra",
+      "has_synced": true,
+      "path": "select/15_SOLID_STATE_SURVIVOR_Yello_Magic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Solid State Survivor",
+      "artist": "YMO",
+      "has_synced": false,
+      "path": "select/16_Solid_State_Survivor_YMO.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Brimful Of Asha. Sofa Surfers Solid State Radio Mix",
+      "artist": "Cornershop",
+      "has_synced": false,
+      "path": "select/17_Brimful_Of_Asha._Sofa_Surfers_Solid_State_Radio_Mix_Cornershop.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Solid State",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/18_Solid_State_Obituary.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "SOLID STATE SCOUTER",
+      "artist": "Dragon Magic Orchestra セリフ: TOKIO",
+      "has_synced": false,
+      "path": "select/19_SOLID_STATE_SCOUTER_Dragon_Magic_Orchestra_セリフ__TOKIO.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Solid State",
+      "artist": "Townland",
+      "has_synced": true,
+      "path": "select/20_The_Solid_State_Townland.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Solid State Survivor",
+      "artist": "YMO",
+      "has_synced": false,
+      "path": "select/pl_01_Solid_State_Survivor_YMO.txt"
+    }
+  ]
+}
